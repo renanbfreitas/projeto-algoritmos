@@ -8,5 +8,5 @@ def is_palindrome_iterative(word):
         return False
 
 
-# Teste do Requisito
+# Teste do Requisito 6
 # print(is_palindrome_iterative('pedra'))
